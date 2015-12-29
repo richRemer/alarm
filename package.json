@@ -1,6 +1,6 @@
 {
   "name": "alarm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple alarm function to call function at a specified Date",
   "main": "alarm.js",
   "author": "Richard Remer (reanjr@gmail.com)",
